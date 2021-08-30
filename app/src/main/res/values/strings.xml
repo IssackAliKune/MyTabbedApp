@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Tabbed App</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+    <string-array name="myChats">
+        <item>Shuuzi</item>
+        <item>Muse</item>
+        <item>Dales</item>
+        <item>Khadijo</item>
+        <item>Abdullahi</item>
+        <item>Ngochi</item>
+        <item>Grace</item>
+        <item>Shafat</item>
+        <item>Mariga</item>
+        <item>Asha</item>
+        <item>Ubax</item>
+        <item>Sahra</item>
+        <item>Muxsin</item>
+        <item>Ahmed</item>
+    </string-array>
+</resources>
